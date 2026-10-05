@@ -22,10 +22,6 @@
 
 ---
 
-<p align="center">
-  <img src="docs/extension.jpg" width="760" alt="Notie's toolbar with a sticky note and a speech bubble on a web page">
-</p>
-
 ## ✨ What it does
 
 | | |
